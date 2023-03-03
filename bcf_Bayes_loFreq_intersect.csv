@@ -1,0 +1,17 @@
+,POS,REF,ALT,ANN,prot_labels
+1,241,C,T,intergenic_region||n.241C>T,NA
+2,21618,C,G,missense_variant||p.Thr19Arg,Spike
+3,21846,C,T,missense_variant||p.Thr95Ile,Spike
+4,22917,T,G,missense_variant||p.Leu452Arg,Spike
+5,22995,C,A,missense_variant||p.Thr478Lys,Spike
+6,23403,A,G,missense_variant||p.Asp614Gly,Spike
+7,23604,C,G,missense_variant||p.Pro681Arg,Spike
+8,25166,G,C,missense_variant||p.Glu1202Gln,Spike
+9,25469,C,T,missense_variant||p.Ser26Leu,ORF3a_protein
+10,26416,G,T,missense_variant||p.Val58Phe,envelope_protein
+11,26767,T,C,missense_variant||p.Ile82Thr,membrane_glycoprotein
+12,27638,T,C,missense_variant||p.Val82Ala,ORF7a_protein
+13,27874,C,T,missense_variant||p.Thr40Ile,ORF7b
+14,28881,G,T,missense_variant||p.Arg203Met,nucleocapsid_phosphoprotein
+15,28916,G,T,missense_variant||p.Gly215Cys,nucleocapsid_phosphoprotein
+16,29742,G,T,intergenic_region||n.29742G>T,NA
